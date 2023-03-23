@@ -1,2 +1,4 @@
 # Proyecto-Phoenix
-Proyecto Phoenix es un juego de tipo RPG en primera/tercera persona (según la preferencia del jugador) en la que encarnamos a un adolescente cuyo padre ha muerto en la guerra y tuvo que subsistir por sus propios medios. Un conflicto nuevo se desata en esta tierra postapocalíptica con el asesinato de un alto cargo de las facciones de la élite a manos de unos rebeldes de facciones inferiores. El protagonista querrá llegar al final de toda esta guerra de clanes que ha surgido, derrotando a todo aquel que se ponga en su camino y conociendo compañeros y amigos en el trayecto.
+Es un juego de rol en primera persona en el cual nos pondremos en la piel de un chico de unos 20 años que se encuentra en un mundo devastado por la guerra tecnológica y tendrá que superar los obstáculos que se le pongan delante con el objetivo de convertir la distopía social, en la que se encuentra el mundo actualmente, en algo mucho mejor.
+Durante el camino el protagonista tendrá que apoyarse de sus habilidades y compañeros para poder avanzar de a poco en su viaje hasta llegar a su destino.
+
