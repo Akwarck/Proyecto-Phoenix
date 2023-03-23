@@ -1,2 +1,9 @@
 # Proyecto-Phoenix
-<h2>INTEGRANTES</h2>
+INTEGRANTES
+
+Miguel Angel 
+Inmaculada Tapias Sánchez
+Julian Mario Retamar Natale
+
+
+
