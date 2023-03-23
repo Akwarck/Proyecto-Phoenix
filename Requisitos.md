@@ -1,3 +1,4 @@
+# Requisitos
 El juego está planteado para ser jugado tanto en PC como en playstation 5 y xbox serie x y s.
 Los requisitos de hardware serán:
 Sistema operativo: Windows 10 de 64 bits, Linux o Mac.
