@@ -1,9 +1,8 @@
 # Proyecto-Phoenix
 INTEGRANTES
 
-Miguel Angel 
-Inmaculada Tapias Sánchez
-Julian Mario Retamar Natale
-
+Inmaculada Tapias Sánchez;
+Julian Mario Retamar Natale;
+Miguel Ángel Rosa Aragón;
 
 
