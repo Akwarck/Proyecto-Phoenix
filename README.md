@@ -1,7 +1,8 @@
 # Historia
 El juego nos sitúa en la piel del protagonista, un joven de 20 años que luego de la muerte de su padre a fines de la guerra, se vio obligado a tomar las riendas de su vida y a cuidar de los suyos.
-Si bien vivían fuera de la zona de peligro en la guerra, su padre tenía familia en una de las potencias, por lo que fue a ayudarlos sin éxito, ya que las bombas nucleares habrían acabado con todo, incluso con su propia vida.
+Si bien vivían fuera de la zona de peligro en la guerra, su padre tenía familia en una de las potencias, por lo que fue a ayudarlos sin éxito, ya que las bombas nucleares habrían acabado con todo, incluso con su propia vida. 
 El protagonista es miembro de uno de las facciones de las zonas más pobres y cerca de la zona de conflicto bélico. 
-El asesinato del líder del sector más prospero dentro del territorio del sector bajo, provocó que todos les den la espalda, si bien no habían sido ellos quienes lo asesinaron, nadie les creería.
-![image](https://user-images.githubusercontent.com/126698679/227171923-ad6ee34a-20f7-4d88-881a-bb00c93f024f.png)
+El lider de la facción más poderosa del continente tomó el rol de enlace para unir a las facciones y evitar que se desate un conflicto, si bien sus habilidades de liderazgo eran únicas y tenia aliados por todo el mundo, su poder politico, militar y diplomatico era muy elevado. Esto no le gustaría a algunos miembros de su propia facción, quienes ansiaban el pode que él poseía. 
+El lider tenía por costumbre el ayudar a las facciones más debiles y pobres luego del conflicto, después de todo el había crecido pasando todo tipo de necesidades y conocía mejor que nadie lo que era estar en esa situación y lo que tuvo que hacer para ascender en el poder. Un día, algunos miembros de su propia facción le realizaron un atentado mientras el se encontraba dentro del territorio que tanto ayudaba, haciendo ver como culpables a la facción que estuvo ayudando todo este tiempo. Esto desató una guerra entre facciones por el poder y la destrucción de la ciudad donde vive nuestro protagonista, quién comenzará un viaje por buscar respuestas y poder acabar con esta guerra de una vez por todas.
+
 
